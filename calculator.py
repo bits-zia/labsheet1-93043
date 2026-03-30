@@ -1,5 +1,5 @@
 def add(a,b):
-    return a-b #intentionally wrong
+    return a+b
 
 def multiply(a,b):
     return a*b
